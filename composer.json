@@ -27,7 +27,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:elegantmedia/lotus.git"
+      "url": "https://github.com/keen2work/lotus.git"
     }
   ],
   "minimum-stability": "dev",
